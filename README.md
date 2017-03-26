@@ -4,7 +4,7 @@ This is an attempt to bring critical front end development knowledge together an
 
 
 ### HTML
-* [Semantics](https://github.com/StevenDufresne/Next-Level-Front-End/wiki/HTML---Semantics)
+* [Semantics](https://github.com/StevenDufresne/Next-Level-Front-End/blob/master/html/semantics/README.md)
 * Validation
 * Accessibility
 
